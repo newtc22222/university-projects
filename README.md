@@ -4,6 +4,10 @@ This repository use for contains all personal & team projects I have at time I l
 ### Algorithm
 - [Travel Packing](./TravelPacking) - C++ console
 
+### Android (Java)
+- [Foody Clone](./Foody)
+- [Busmap Vietnam Clone](./Nhom16_Busmap)
+
 ### MERN
 - [NASA](./NASA_19110426)
 - [Express Security](./Security19110426)
@@ -12,6 +16,5 @@ This repository use for contains all personal & team projects I have at time I l
 - [Necessity List](./necessities_list_1.0.2) - Winform + Linq + XML
 - [Domitory Management](./Domitory_Management) - WPF + Linq + MSSQL
 
-### Android (Java)
-- [Foody Clone](./Foody)
-- [Busmap Vietnam Clone](./Nhom16_Busmap)
+### Java
+- [Small Business Management](./Small_Business_Management)
